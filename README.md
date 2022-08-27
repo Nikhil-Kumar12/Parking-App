@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Visit [http://nikhilbaghel.me/Parking-App/](http://nikhilbaghel.me/Parking-App/).
 
 ## Available Scripts
 
