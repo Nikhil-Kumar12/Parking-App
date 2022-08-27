@@ -17,7 +17,7 @@ export default function Navbar() {
         </div>
         <div className="flex justify-center items-center mt-1.5">
           <div className="w-10 h-10 bg-white rounded-full drop-shadow-sm flex justify-center items-center mr-2">
-            <img src="/Natasha.svg" alt="user" className="w-8 h-8" />
+            <img src="Natasha.svg" alt="user" className="w-8 h-8" />
           </div>
           <span className="mr-2 cursor-pointer text-h3 flex">
             <p className="mr-1 font-[Montserrat] font-semibold">Natasha</p>
